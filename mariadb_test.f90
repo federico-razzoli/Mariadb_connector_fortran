@@ -2,7 +2,8 @@
 ! 1-1-2022
 ! Author:  Vu Hoang Giang
 ! GitHub:  https://github.com/v-h-giang/Mariadb_connector_fortran
-! Licence: ISC
+! Licence: MIT 
+! gfortran -Wall -static-libgfortran -static-libgcc -static-libstdc++ -O3 mariadb_test.f90  libmariadb_fortran.f90 c_util.f90 -lWs2_32 -lmariadb -o mariadb_test
 program mariadb_test
   use :: mariadb_fortran
   implicit none

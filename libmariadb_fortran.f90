@@ -6,7 +6,7 @@
 ! 1-1-2022
 ! Author:  Vu Hoang Giang
 ! GitHub:  https://github.com/v-h-giang/Mariadb_connector_fortran
-! Licence: ISC
+! Licence: MIT
 
 module mariadb_fortran
       use,intrinsic :: iso_c_binding
