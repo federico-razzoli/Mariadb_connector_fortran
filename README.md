@@ -2,7 +2,7 @@ Fortran wrapper library for MariaDB Connector/C
 
 It can use to connect to MariaDB, MySQL, Oracle.
 
-Download newest MariaDB client connector/C (dll file) here for windows OS:
+Download newest MariaDB client connector/C (dll file) here for Windows OS:
 
 https://mariadb.com/kb/en/mariadb-connector-c/
 
